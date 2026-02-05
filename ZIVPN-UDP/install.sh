@@ -779,7 +779,7 @@ function run_setup() {
 
     # --- Run Base Installation ---
     echo "--- Starting Base Installation ---"
-    wget -O zi.sh https://raw.githubusercontent.com/kacepu877/V1/main/ZIVPN-UDP/zi.sh
+    wget -O zi.sh https://raw.githubusercontent.com/kcepu877/V1/main/ZIVPN-UDP/zi.sh
     if [ $? -ne 0 ]; then echo "Failed to download base installer. Aborting."; exit 1; fi
     chmod +x zi.sh
     ./zi.sh
@@ -814,7 +814,7 @@ function run_setup() {
     
     # Download helper script from repository
     echo "Downloading helper script..."
-    wget -O /usr/local/bin/zivpn_helper.sh https://raw.githubusercontent.com/kacepu877/V1/main/ZIVPN-UDP/zivpn_helper.sh
+    wget -O /usr/local/bin/zivpn_helper.sh https://raw.githubusercontent.com/kcepu877/V1/main/ZIVPN-UDP/zivpn_helper.sh
     if [ $? -ne 0 ]; then
         echo "Failed to download helper script. Aborting."
         exit 1
