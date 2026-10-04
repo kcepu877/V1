@@ -13,7 +13,7 @@ red='\e[1;31m'
 green='\e[0;32m'
 TIME=$(date '+%d %b %Y')
 TIMES="10"
-CHATID="1962241851"
+CHATID="8166206712"
 KEY="8371381127:AAGVsOUjYEeYazTN3tnzUmutW6fyEZsl1os"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 function print_ok() {
