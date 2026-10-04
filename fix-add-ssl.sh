@@ -1,4 +1,47 @@
-#!/bin/bash
-z="
-";yCz='root';BDz='me.s';NEz='full';xBz=' tee';MFz=' ser';eEz='ath"';eDz='uto-';Gz='nda:';yBz=' /et';bCz=' $do';Jz='if [';TDz='.sh';IEz='_pat';qCz='l st';RCz='rhas';SDz='.sh/';jCz='g ke';pEz='oxy/';dz='in_i';oEz='hapr';VDz='d +x';lEz='ey_p';tEz='0 /e';kDz='-ca ';REz='key_';sz=' / {';HBz=')';wCz=' ! -';YDz='cme.';BBz='ip=$';Ez='doma';mCz=' $vp';fFz='/xra';qFz='prox';rFz='y';xEz='em';oz=' awk';yDz='one ';KGz='art.';rDz='ove ';YEz='cc/$';qz='Addr';tz='prin';ACz='c/xr';hz=' "$p';bFz='xray';Kz=' -z ';aBz='P ma';TBz='n at';MDz='y.ap';JEz='h="/';WCz='else';HEz='cert';Hz=' " -';EFz='/hap';HFz='"❌ G';vBz='_ip)';IGz='h di';eCz='n do';kBz='en';BGz=' tel';CCz='n /r';EBz=' ifc';mEz=' > /';JFz=' men';bEz=' -f ';Yz='nput';OFz='kat ';sCz='ginx';lz='>/de';LCz='/lib';fBz='" ==';LBz=' ]; ';bBz='na p';IDz='e-in';kCz=' IP ';GDz='ps:/';NFz='tifi';NDz='p/ac';gFz='y.ke';Uz=' dom';UFz='tall';mz='v/nu';uEz='tc/h';JCz='" > ';xCz='f "/';gEz='& [ ';qEz='hap.';oFz='ay';VEz='e.sh';nz='ll |';jFz='l re';sFz='"✅ P';xz='l -n';WBz=' dip';ZFz='tc/x';Rz='"❌ T';cDz='rade';SCz='il d';PCz='onf';ABz='vps_';ICz='=$pp';QDz='ot/.';lFz='t ng';fz='nslo';ZDz='sh/a';PEz='n.ce';jDz='ault';lBz='"✅ D';SEz='path';Cz=' "In';OCz='ps.c';DGz='tal ';iDz='-def';SBz='muka';pz=' '\''/^';hBz='ps_i';BEz='orce';lDz='--se';ZCz='IP l';Tz=' ada';fDz='upgr';ODz='h -o';oDz='senc';bz=' 1';PBz='n ti';uz='t $2';wBz='p" |';CFz='oot ';aCz='ain:';fEz=' ] &';GGz='nan ';KDz='l.ne';vFz='lesa';XFz='npat';CDz='h/ac';nCz='s_ip';uCz='apro';hFz='y --';iCz='ntin';vEz='xy/h';QFz='untu';vz='}'\'' |';rBz=' ke ';mFz='inx';iz='p" 8';HCz=' "IP';HDz='/acm';LFz='tkan';DDz='h" ]';dEz='rt_p';oBz='dah ';DCz='oot/';NCz='/ipv';rEz='pem';jBz='; th';VFz=' -d ';eFz='th /';tDz='$pp"';Lz='"$pp';IBz='"$do';MEz='ecc/';xFz='SL u';gBz=' "$v';wFz='i! S';IFz='agal';JDz='stal';Pz='echo';vDz='ue -';Wz='yang';EDz='curl';fCz=' sud';DEz='eyle';kFz='star';KCz='/var';ZEz='{pp}';yEz='chow';wEz='ap.p';VBz='elum';KBz='_ip"';JGz='rest';mDz='rver';Fz='in A';tFz='rose';sEz='d 60';Iz='e pp';JBz='main';GCz='ll';FEz=' ec-';bDz='-upg';ez='p=$(';kz='.8 2';OBz='omai';XCz='p ma';uFz='s se';uBz='$vps';XBz='oint';sDz='-d "';WEz='/${p';gz='okup';mBz='n $p';jz='.8.8';qDz='-rem';AFz='n ro';MBz='then';sBz='IP V';nBz='p su';FFz='roxy';nEz='etc/';jEz='cat ';rCz='op n';SFz='p."';YFz='h /e';wz=' tai';HGz='tela';DBz='l -s';YCz='sih ';QEz='r"';nFz='t xr';EEz='ngth';GEz='256';Mz='" ];';YBz='ing ';gDz='ade';Xz=' dii';KEz='h/${';gCz='ah d';rz='ess:';hEz='-f "';FDz=' htt';BCz='ay/d';ECz='in >';eBz='n_ip';pFz='t ha';Az='read';DFz='/etc';GFz='.pem';AGz=' $pp';cCz='"Pas';Qz=' -e ';XEz='p}_e';yFz='ntuk';OEz='chai';aFz='ray/';LEz='pp}_';XDz='t/.a';QBz='dak ';cBz='un."';FGz='laya';tCz='op h';TEz='="/r';FBz='onfi';pCz='emct';iFz='ecc';cFz='.crt';iBz='p" ]';RDz='acme';Oz='n';TCz='isim';ADz='/.ac';CBz='(cur';Bz=' -rp';vCz='xy';CEz=' --k';pDz='rypt';EGz='dan ';wDz='-sta';UCz='pan!';xDz='ndal';kEz=' "$k';PFz='SSL ';iEz='$key';tBz='PS (';ZBz='ke I';RBz='dite';CGz='iins';uDz='-iss';az='exit';Nz=' the';WFz='" --';BFz='ot:r';VCz='"';WDz='/roo';hDz='-set';QCz='n be';Sz='idak';UDz='chmo';yz='1)';FCz=' /de';cz='fi';dDz=' --a';NBz='"❌ D';UEz='.acm';qBz='arah';TFz='-ins';dCz='tika';aEz='.key';Zz='."';pBz='meng';dBz=' "$d';Vz='ain ';aDz='sh -';LDz='tlif';oCz='syst';AEz=' --f';MCz='/kyt';GBz='g.me';hCz='ipoi';Dz='put ';nDz=' let';lCz='VPS:';PDz=' /ro';UBz='au b';RFz='k $p';dFz='eypa';KFz='dapa';cEz='"$ce';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$z$Jz$Kz$Lz$Mz$Nz$Oz$z$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$z$az$bz$z$cz$z$Ez$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$xz$yz$z$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$z$Jz$Kz$IBz$JBz$KBz$LBz$MBz$z$Pz$Qz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$z$az$bz$z$cz$z$Jz$dBz$OBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$z$Pz$Qz$lBz$OBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$Zz$z$Pz$hz$wBz$xBz$yBz$ACz$BCz$OBz$CCz$DCz$Ez$ECz$FCz$mz$GCz$z$Pz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$z$Pz$Qz$lBz$OBz$QCz$RCz$SCz$TCz$UCz$VCz$z$WCz$z$Pz$Qz$NBz$OBz$mBz$XCz$YCz$pBz$qBz$rBz$ZCz$aCz$bCz$JBz$KBz$z$Pz$Qz$cCz$dCz$eCz$JBz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$VCz$z$az$bz$z$cz$z$oCz$pCz$qCz$rCz$sCz$z$oCz$pCz$qCz$tCz$uCz$vCz$z$Jz$wCz$xCz$yCz$ADz$BDz$CDz$BDz$DDz$jBz$kBz$z$EDz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$BDz$ODz$PDz$QDz$RDz$SDz$RDz$TDz$z$UDz$VDz$PDz$QDz$RDz$SDz$RDz$TDz$z$cz$z$WDz$XDz$YDz$ZDz$YDz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$z$WDz$XDz$YDz$ZDz$YDz$aDz$hDz$iDz$jDz$kDz$lDz$mDz$nDz$oDz$pDz$z$WDz$XDz$YDz$ZDz$YDz$aDz$qDz$rDz$sDz$tDz$z$WDz$XDz$YDz$ZDz$YDz$aDz$uDz$vDz$wDz$xDz$yDz$sDz$tDz$AEz$BEz$CEz$DEz$EEz$FEz$GEz$z$HEz$IEz$JEz$yCz$ADz$BDz$KEz$LEz$MEz$NEz$OEz$PEz$QEz$z$REz$SEz$TEz$DCz$UEz$VEz$WEz$XEz$YEz$ZEz$aEz$VCz$z$Jz$bEz$cEz$dEz$eEz$fEz$gEz$hEz$iEz$IEz$DDz$jBz$kBz$z$jEz$cEz$dEz$eEz$kEz$lEz$eEz$mEz$nEz$oEz$pEz$qEz$rEz$z$UDz$sEz$tEz$uEz$uCz$vEz$wEz$xEz$z$yEz$AFz$BFz$CFz$DFz$EFz$FFz$EFz$GFz$z$WCz$z$Pz$Qz$HFz$IFz$JFz$KFz$LFz$MFz$NFz$OFz$PFz$QFz$RFz$SFz$z$az$bz$z$cz$z$WDz$XDz$YDz$ZDz$YDz$aDz$TFz$UFz$HEz$VFz$Lz$WFz$NEz$OEz$XFz$YFz$ZFz$aFz$bFz$cFz$CEz$dFz$eFz$nEz$bFz$fFz$gFz$hFz$iFz$z$UDz$sEz$tEz$ZFz$aFz$bFz$aEz$z$oCz$pCz$jFz$kFz$lFz$mFz$z$oCz$pCz$jFz$kFz$nFz$oFz$z$oCz$pCz$jFz$kFz$pFz$qFz$rFz$z$Pz$Qz$sFz$tFz$uFz$vFz$wFz$xFz$yFz$AGz$BGz$gCz$CGz$DGz$EGz$FGz$GGz$HGz$IGz$JGz$KGz$VCz"
+read -rp "Input domain Anda: " -e pp
+if [ -z "$pp" ]; then
+echo -e "❌ Tidak ada domain yang diinput."
+exit 1
+fi
+domain_ip=$(nslookup "$pp" 8.8.8.8 2>/dev/null | awk '/^Address: / {print $2}' | tail -n1)
+vps_ip=$(curl -s ifconfig.me)
+if [ -z "$domain_ip" ]; then
+echo -e "❌ Domain tidak ditemukan atau belum dipointing ke IP mana pun."
+exit 1
+fi
+if [ "$domain_ip" == "$vps_ip" ]; then
+echo -e "✅ Domain $pp sudah mengarah ke IP VPS ($vps_ip)."
+echo "$pp" | tee /etc/xray/domain /root/domain > /dev/null
+echo "IP=$pp" > /var/lib/kyt/ipvps.conf
+echo -e "✅ Domain berhasil disimpan!"
+else
+echo -e "❌ Domain $pp masih mengarah ke IP lain: $domain_ip"
+echo -e "Pastikan domain sudah dipointing ke IP VPS: $vps_ip"
+exit 1
+fi
+systemctl stop nginx
+systemctl stop haproxy
+if [ ! -f "/root/.acme.sh/acme.sh" ]; then
+curl https://acme-install.netlify.app/acme.sh -o /root/.acme.sh/acme.sh
+chmod +x /root/.acme.sh/acme.sh
+fi
+/root/.acme.sh/acme.sh --upgrade --auto-upgrade
+/root/.acme.sh/acme.sh --set-default-ca --server letsencrypt
+/root/.acme.sh/acme.sh --remove -d "$pp"
+/root/.acme.sh/acme.sh --issue --standalone -d "$pp" --force --keylength ec-256
+cert_path="/root/.acme.sh/${pp}_ecc/fullchain.cer"
+key_path="/root/.acme.sh/${pp}_ecc/${pp}.key"
+if [ -f "$cert_path" ] && [ -f "$key_path" ]; then
+cat "$cert_path" "$key_path" > /etc/haproxy/hap.pem
+chmod 600 /etc/haproxy/hap.pem
+chown root:root /etc/haproxy/hap.pem
+else
+echo -e "❌ Gagal mendapatkan sertifikat SSL untuk $pp."
+exit 1
+fi
+/root/.acme.sh/acme.sh --installcert -d "$pp" --fullchainpath /etc/xray/xray.crt --keypath /etc/xray/xray.key --ecc
+chmod 600 /etc/xray/xray.key
+systemctl restart nginx
+systemctl restart xray
+systemctl restart haproxy
+echo -e "✅ Proses selesai! SSL untuk $pp telah diinstal dan layanan telah direstart."
